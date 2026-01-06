@@ -18,7 +18,7 @@
 ---
 
 <!-- About Me Section -->
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+
 
 ## <div align="center">Who Am I?</div>
 
@@ -44,18 +44,30 @@ My goal is to craft solutions that are not only functional but also make a meani
 
 <div align="left">
 
-## 🛠 Technical Skills
-<div align="center">
+## Tech Gadgets
 
-| **Category** | **Skills** |
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=300 align="right">
+
+### Core Protocols & Data Streams
+| Category | Skills |
 | :--- | :--- |
-| **Languages** | C, Python, JavaScript, SQL |
-| **Frameworks & Runtime** | React.js, Node.js |
-| **Tools & Platforms** | Git, GitHub |
+| **Languages** | Python • C • JavaScript |
 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,mysql,react,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,arduino,git" /><br>
 </div>
 
-<br/>
+### AI & Machine Learning
+<div align="left">
+ 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+</div>
 
 ## 🚀 Projects
 
